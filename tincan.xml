@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Digital Marketing Course</name>
+      <description lang="en-US">&lt;em&gt;COURSE OVERVIEW&lt;/em&gt;&lt;br&gt;The Digital Marketing course at UpCert is meticulously designed to equip students with in-depth knowledge and practical skills in digital marketing, ensuring they emerge as proficient digital marketers. The curriculum covers essential areas such as SEO, content marketing, social media marketing, email marketing, PPC advertising, and analytics. These modules are crafted to provide both theoretical understanding and practical application, with a strong focus on the local Nigerian context and relevant examples.The primary objectives of this course are to help students understand and apply fundamental digital marketing concepts and strategies, develop and implement effective SEO techniques, create engaging content, utilize social media platforms for audience engagement, plan and execute email marketing campaigns, set up and manage PPC advertising campaigns, and analyze digital marketing performance using analytics tools. By the end of this course, students will be able to develop a comprehensive digital marketing plan and present it effectively.&lt;br&gt;The course structure comprises nine topic modules, each focusing on a specific aspect of digital marketing. These modules include comprehensive content, clear learning objectives, practical tasks, and interactive elements such as videos, infographics, and templates. The final module culminates in a capstone project where students will apply their knowledge to develop a thorough digital marketing strategy for a real or hypothetical business.&lt;br&gt;The learning methodology combines theoretical knowledge with practical application, encouraging students to engage with interactive content, complete hands-on tasks, and work on real-world projects. By the course&amp;#39;s conclusion, students will have developed a portfolio of digital marketing strategies and campaigns, enhancing their employability and practical skills.&lt;br&gt;This course is ideal for aspiring digital marketers, business owners, marketing professionals seeking to upgrade their skills, and students or recent graduates looking to enhance their digital marketing knowledge. There are no formal prerequisites, though a basic understanding of marketing principles and familiarity with the internet and social media platforms will be beneficial.&lt;br&gt;The course is designed and taught by experienced digital marketing professionals who bring real-world insights and practical tips to the learning experience. Students will be assessed through quizzes, tasks, and the capstone project. Upon successful completion, they will receive a certificate from UpCert, recognizing their expertise in digital marketing.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/tBa_zdTjbn0Qw_UFlRGlkmDJE6azSwI6" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introduction/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/rxnaRQK6HQ2ECPNmi3W1Ud1f9632xO1c" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introduction to Digital Marketing/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/fZIRXhldsu5R_gbg8AG1RNQCKoIEchbp" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">STRATEGIES AND EXECUTION/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/Ta1ysVmUjt3B84KPzCc80KruV3tLUtAg" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Search Engine Optimization (SEO)/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/FsliTqiScSZcF6mMtXiSOfUr6L1xac_7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Content Marketing/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/31OEH6tpl85omzK_CfbignN_Hz1nsRDT" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Social Media Marketing/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/KJ2mmGVPbCUMrfPnuS8O1mT-cQAw7zus" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Email Marketing/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/hTH7EyZCB3gXRhiA7kJSfU6mWwSWg3vq" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Pay-Per-Click (PPC) Advertising/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/EMt-hvobq5a5W7CaZZNr2HiDCSZvHeTt" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">METRICS AND analysis/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/pjw38KmMVNZeKMgEiTaA0yE3E1BNZg2I" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Analytics and Data Insights/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/dQSUI2teAtCarxN7ku8oPdG4rfBfcmEn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Common Digital Marketing Metrics/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/u2rqlZrMvcoF579iIkvBD1dBJMcxUzZ7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Conclusion/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/UAW6JpQTKI8FExX6pebHACByI7WVhoYQ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Building a Digital Marketing Plan/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/YkkIHkoZLIGQBET06KSeO6tKrye9oLHz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">CAPSTONE PROJECT/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Congratulations on reaching the final module of this digital marketing course! It&amp;#39;s time to demonstrate your knowledge and understanding through our comprehensive course final quiz. This quiz tests the key concepts and strategies you&amp;#39;ve learned throughout the course.Quiz Details:&lt;ul&gt;&lt;li&gt;Total Number of Questions: 20&lt;/li&gt;&lt;li&gt;Passing Score: 70% (14 out of 20 correct answers)&lt;/li&gt;&lt;/ul&gt;Take time, read each question carefully, and apply what you&amp;#39;ve learned. Good luck!</description>
+    </activity>
+                                  
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cjyovbks400043b5yxqy0i9s9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the primary purpose of SEO marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cjyovbks400063b5ynrepy1rp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cjyovbks400053b5yi8r78s8l</id>
+    <description lang="en-US">To pay for ad space&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyovbks400063b5ynrepy1rp</id>
+    <description lang="en-US">To improve website visibility in search engines&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyovtgis00353b5yuf6kcai5</id>
+    <description lang="en-US">To create social media posts&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyovtl0900363b5yu7y5bojb</id>
+    <description lang="en-US">To send email newsletters&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cjyuj8m43003r3b63gynv3jaa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which metrics measure the percentage of users who click on an ad after viewing it?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cjyuj8m44003v3b63b4g5xxl3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cjyuj8m44003s3b63fv5mmriv</id>
+    <description lang="en-US">Bounce Rate&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyuj8m44003u3b63ktz3murb</id>
+    <description lang="en-US">Cost Per Click&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyuj8m44003v3b63b4g5xxl3</id>
+    <description lang="en-US">Click-Through Rate&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyuj8m44003t3b63q8sr6tb3</id>
+    <description lang="en-US">Conversion Rate&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cjyuj4ba4003d3b63w44c6smj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is a lead magnet?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cjyuj4ba4003f3b63252lcyhx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cjyuj4ba4003e3b63jn55h2h4</id>
+    <description lang="en-US">A tool for automating emails&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyuj4ba4003f3b63252lcyhx</id>
+    <description lang="en-US">An incentive offered in exchange for contact information&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyujctks00403b63wpbsgp3v</id>
+    <description lang="en-US">A type of social media post&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyujcy7v00413b63uo6ppj9g</id>
+    <description lang="en-US">A keyword used in SEO&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cjyovu1nk00373b5yrf272awm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which digital marketing strategy involves creating and sharing valuable content to attract and engage an audience?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cjyovuzmq003a3b5y6vy3d6ha</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cjyovu1nk00383b5ytde7ewxk</id>
+    <description lang="en-US">PPC Marketing&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyovu1nk00393b5yt6j5bb4b</id>
+    <description lang="en-US">Email Marketing&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyovuzmq003a3b5y6vy3d6ha</id>
+    <description lang="en-US">Content Marketing&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyovv43s003b3b5yzn93k0mx</id>
+    <description lang="en-US">Affiliate Marketing&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cjyuiqln7002y3b63nhvzkbf2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the main advantage of PPC marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cjyuiqln700303b63mqqlaw69</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cjyuiqln7002z3b63dimx648t</id>
+    <description lang="en-US">Long-term traffic growth&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyuiqln700303b63mqqlaw69</id>
+    <description lang="en-US">Immediate visibility and results&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyuirasq00313b630fakvqp8</id>
+    <description lang="en-US">Building organic search credibility&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cjyuirhex00323b63gwxeorog</id>
+    <description lang="en-US">Creating email campaigns&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8rinp602vk35717f0nmxu3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In email marketing, what does the term &amp;quot;open rate&amp;quot; refer to?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8rinpa02vl35710gubv93p</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8rinpa02vl35710gubv93p</id>
+    <description lang="en-US">The percentage of recipients who open the email&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8rinpa02vm3571fshrpqap</id>
+    <description lang="en-US">The number of links clicked in an email&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8rjxkc02vn3571l6bnwsw7</id>
+    <description lang="en-US">The cost of sending an email</description>
+  </component>
+    <component>
+    <id>choice_cly8rkijq02vo3571uhja46pm</id>
+    <description lang="en-US">The total number of emails sent</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8rkos202vp3571ednf5c9u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following is a key metric for social media marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8rxpno02vs3571dlc4v2i5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8rkos202vq3571pwbhgfn3</id>
+    <description lang="en-US">Cost Per Acquisition&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8rkos202vr35714k63yvr6</id>
+    <description lang="en-US">Domain Authority&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8rxpno02vs3571dlc4v2i5</id>
+    <description lang="en-US">Engagement Rate</description>
+  </component>
+    <component>
+    <id>choice_cly8ry1pz02vt3571vxewugqf</id>
+    <description lang="en-US">Page Speed</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8ryptx02vu35717sj13nv1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the primary goal of remarketing ads?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8rypu202vw3571v2r7m0l5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8rypu202vv3571c1bwk3ub</id>
+    <description lang="en-US">To generate new leads&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8rypu202vw3571v2r7m0l5</id>
+    <description lang="en-US">To re-engage previous visitors and encourage conversions&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8rzmfx02vx3571x9xjwsr2</id>
+    <description lang="en-US">To increase organic search traffic</description>
+  </component>
+    <component>
+    <id>choice_cly8rzwas02vy3571gb1f7zmm</id>
+    <description lang="en-US">To create email campaigns</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8s029s02vz3571b5ktr0c0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which metric measures the average cost to acquire a new customer?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8s16it02w23571jgc6a7uk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8s029s02w03571m7ywoh65</id>
+    <description lang="en-US">Cost Per Click&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s029s02w135717yj0l3cj</id>
+    <description lang="en-US">Return on Investment&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s16it02w23571jgc6a7uk</id>
+    <description lang="en-US">Customer Acquisition Cost</description>
+  </component>
+    <component>
+    <id>choice_cly8s1g0a02w33571v8z0dgk5</id>
+    <description lang="en-US">Click-Through Rate</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8s1jvw02w43571gr0gc7r1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the primary benefit of using dynamic ads in remarketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8s1jvw02w63571aprunft4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8s1jvw02w535718tm8cf5h</id>
+    <description lang="en-US">Lower cost&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s1jvw02w63571aprunft4</id>
+    <description lang="en-US">Personalized product recommendations&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s2u8s02w735714205yh1c</id>
+    <description lang="en-US">Higher email open rates</description>
+  </component>
+    <component>
+    <id>choice_cly8s355902w83571kixexfzw</id>
+    <description lang="en-US">Improved page speed</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8s3bww02w93571o1v5p68c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which platform is best suited for professional networking and B2B marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8s3bww02wb3571x9xhve50</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8s3bww02wa3571v5pbzryg</id>
+    <description lang="en-US">Instagram&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s3bww02wb3571x9xhve50</id>
+    <description lang="en-US">Linkedin</description>
+  </component>
+    <component>
+    <id>choice_cly8s49af02wc3571fhrjrqgf</id>
+    <description lang="en-US">Pinterest</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8s4l7w02wd3571g4uafqh7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What does ROAS stand for?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8s4l7w02we3571xaqc4g5x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8s4l7w02we3571xaqc4g5x</id>
+    <description lang="en-US">Return on Ad Spend&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s4l7w02wf3571z4kw118f</id>
+    <description lang="en-US">Rate of Advertising Sales&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s610p02wg3571tj62w2bb</id>
+    <description lang="en-US">Reach of Ad Strategy</description>
+  </component>
+    <component>
+    <id>choice_cly8s697t02wh3571xnypnih0</id>
+    <description lang="en-US">Revenue on Ad Success</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8s6e1102wi35712ijyzlt9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which type of content is most effective for building long-term trust and authority?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8s7q2a02wl3571sdftgs86</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8s6e1102wj3571pbwck6sm</id>
+    <description lang="en-US">Banner ads&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s6e1102wk35712drlig86</id>
+    <description lang="en-US">Email newsletters&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s7q2a02wl3571sdftgs86</id>
+    <description lang="en-US">Blog posts</description>
+  </component>
+    <component>
+    <id>choice_cly8s84cn02wm3571jimv7pqs</id>
+    <description lang="en-US">Social media posts</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8s886r02wn3571tcdbu5bo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the primary objective of email automation?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8s886r02wp3571trh3xl9c</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8s886r02wo3571jlsrtn7v</id>
+    <description lang="en-US">To send emails manually&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s886r02wp3571trh3xl9c</id>
+    <description lang="en-US">To schedule and send targeted emails automatically&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8s9jzx02wq3571muzrqvzl</id>
+    <description lang="en-US">To create social media ads</description>
+  </component>
+    <component>
+    <id>choice_cly8s9svc02wr3571cb82r873</id>
+    <description lang="en-US">To improve website SEO</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8sa1mm02ws35715ov3mxjb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following is a limitation of PPC marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8sbhx502wv3571qs8chp5h</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8sa1mn02wt3571061c21bm</id>
+    <description lang="en-US">Slow results&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sa1mn02wu3571tqxxvzwm</id>
+    <description lang="en-US">Difficult to measure&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sbhx502wv3571qs8chp5h</id>
+    <description lang="en-US">High competition and costs</description>
+  </component>
+    <component>
+    <id>choice_cly8sbzk202ww3571escq5bfa</id>
+    <description lang="en-US">Builds long-term traffic</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8scbij02wx3571vj196iti" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What does CTR stand for in digital marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8scbik02wy35718ey34qtn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8scbik02wy35718ey34qtn</id>
+    <description lang="en-US">Click-Through Rate&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8scbik02wz35719ys837s5</id>
+    <description lang="en-US">Conversion Traffic Rate&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sdfp002x03571s30u24oz</id>
+    <description lang="en-US">Cost to Revenue</description>
+  </component>
+    <component>
+    <id>choice_cly8sdrz702x13571dy6e2gdq</id>
+    <description lang="en-US">Customer Transaction Rate</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8sdxce02x23571mrb9kgeb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which metric is used to measure the total revenue a business expects from a customer over their lifetime?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8sdxce02x33571jl84ct5p</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8sdxce02x33571jl84ct5p</id>
+    <description lang="en-US">Lifetime Value (LTV)&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sdxce02x43571us83pv72</id>
+    <description lang="en-US">Cost Per Acquisition (CPA)&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sf5s902x53571146t6k84</id>
+    <description lang="en-US">Click-Through Rate (CTR)</description>
+  </component>
+    <component>
+    <id>choice_cly8sfebv02x63571ent28k32</id>
+    <description lang="en-US">Return on Investment (ROI)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8sfi5502x73571dvvjdjed" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is a key advantage of using video content in digital marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8shazv02xb3571p0o5jcij</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8sfi5502x83571picr88wh</id>
+    <description lang="en-US">Easier to produce than text content&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sfi5502x93571bj678je2</id>
+    <description lang="en-US">Lower cost than other content types&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sgyws02xa3571l5lcgw53</id>
+    <description lang="en-US">Less time-consuming to create</description>
+  </component>
+    <component>
+    <id>choice_cly8shazv02xb3571p0o5jcij</id>
+    <description lang="en-US">Higher engagement and shareability</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8shkkg02xc35718cupxixl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the main function of Google Analytics in digital marketing?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8sj64f02xg3571gb33zcww</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8shkkg02xd3571l4dnxa6v</id>
+    <description lang="en-US">To create social media posts&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8shkkg02xe3571rojji31a</id>
+    <description lang="en-US">To run PPC campaigns&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8sj64f02xg3571gb33zcww</id>
+    <description lang="en-US">To analyze website traffic and user behavior</description>
+  </component>
+    <component>
+    <id>choice_cly8sk2ui02xh3571ri9q1dky</id>
+    <description lang="en-US">To send email newsletters</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/lDJxe_JsJxYHrd0PCBpqB5kvIhWOBngS/cly8snbew02xp3571s0oemjgo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following describes the bounce rate metric?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cly8somy102xs3571xd1mp3k0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cly8snbew02xq3571o34wcymt</id>
+    <description lang="en-US">Number of email opens&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8snbew02xr3571gfdyxw4r</id>
+    <description lang="en-US">Total number of page views&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cly8somy102xs3571xd1mp3k0</id>
+    <description lang="en-US">Percentage of visitors who leave the site after viewing only one page</description>
+  </component>
+    <component>
+    <id>choice_cly8sovjc02xt3571sp5iu9un</id>
+    <description lang="en-US">Number of clicks on a PPC ad</description>
+  </component>
+    </choices>
+  </activity>
+                      <activity id="http://5USd-fnUBfnW2DzdwVNYmznNRKnb5dBM_rise/YWTFncL2dY45XA-xHzFo6qtBeccGrqXU" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Summary/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
